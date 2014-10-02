@@ -1,0 +1,14 @@
+<h1>Textar v0.1 Demo <br/><span>Simple PHP Text-based Content Management System.</span></h1>
+
+<ul class="nav">
+	<li><a href="?page=home">home</a></li>
+	<li><a href="?page=about">about</a></li>
+	<li><a href="?page=blog">blog</a></li>
+	<li><a href="?page=contact">contact</a></li>
+</ul>
+
+<div style="padding:5px 10px 1px;">
+	<p>BLOG PAGE</p>
+</div>
+
+<p>&equiv; 2014 &bull; Textar &bull; <a href="https://www.twitter.com/_thinkholic" target="_blank">@_thinkholic</a></p>

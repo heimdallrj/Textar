@@ -1,0 +1,12 @@
+body {font-family:Consolas; font-size:12px;}
+
+h1 {border-bottom:1px solid #666; margin-bottom:10px; line-height: 20px;}
+h1 span {font-weight:bold; font-size:12px;}
+
+ul.nav {margin: 0; padding: 7px; font-weight: bold; list-style: none; background: #EEE5E5;}
+ul.nav li {display:inline; margin-right:8px;}
+
+p.meta {margin:0; padding:0;}
+
+a {text-decoration:none;}
+a:hover {color:#999;}
